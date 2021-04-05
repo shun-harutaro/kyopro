@@ -1,3 +1,4 @@
+#https://qiita.com/takayg1/items/05d33193fbd7f2fc9256
 n, m = map(int,input().split()) # nは頂点の数 mは辺の数
 g = [[] for _ in range(n)] # 隣接リスト
 
